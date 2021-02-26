@@ -23,6 +23,10 @@ public class NuevoProyecto2B {
         
         String grupo = "2B";
         System.out.println("grupo = " + grupo);
+        
+        // Nueva función
+        int promedio = 8;
+        System.out.println("promedio = " + promedio);
     }
     
 }
