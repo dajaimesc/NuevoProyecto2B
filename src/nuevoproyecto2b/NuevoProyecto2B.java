@@ -27,6 +27,7 @@ public class NuevoProyecto2B {
         // Nueva función
         int promedio = 8;
         System.out.println("promedio = " + promedio);
+        
     }
     
 }
